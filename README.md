@@ -1,10 +1,10 @@
-# Developing a RESTful API With Node and TypeScript
+# almundo.com test
 
-## Want to use this project?
+## Get started
 
 1. Fork/Clone
 1. Install dependencies - `npm install`
 1. Build server - `npm run build`
 1. Run the development server - `npm start`
 
-Now visit http://localhost:3000/api/v1/hotels# almundo-api
+Now visit http://localhost:3000/api/v1/hotels
