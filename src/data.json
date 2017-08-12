@@ -1,0 +1,64 @@
+{
+  "hotels": [
+    {
+      "name": "Hotel Emperador",
+      "stars": 3,
+      "price": 1596
+    },
+    {
+      "name": "Petit Palace San Bernardo",
+      "stars": 4,
+      "price": 2145
+    },
+    {
+      "name": "Hotel Nuevo Boston",
+      "stars": 2,
+      "price": 861
+    },
+    {
+      "name": "San Isidro Aparment",
+      "stars": 2,
+      "price": 580
+    },
+    {
+      "name": "Hotel Monteverde",
+      "stars": 3,
+      "price": 701
+    },
+    {
+      "name": "Loi Suites Arenales",
+      "stars": 3,
+      "price": 1343
+    },
+    {
+      "name": "Loi Suites Arenales",
+      "stars": 1,
+      "price": 1523
+    },
+    {
+      "name": "Sheraton Libertador Hotel",
+      "stars": 5,
+      "price": 2161
+    },
+    {
+      "name": "Melia Buenos Aires Hotel & Convention Center",
+      "stars": 5,
+      "price": 2310
+    },
+    {
+      "name": "Loi Suites Recoleta Hotel",
+      "stars": 4,
+      "price": 2502
+    },
+    {
+      "name": "King's Hotel",
+      "stars": 3,
+      "price": 723
+    },
+    {
+      "name": "Be Hollywood Hotel",
+      "stars": 4,
+      "price": 3849
+    }
+  ]
+}
