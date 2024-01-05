@@ -1,7 +1,8 @@
 repo_name: mcabreradev/almundo-api
 report_id: 4d8948d211a2e542e74d7e5cff449266
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:30:22+00:00'
+timestamp: '2024-01-05T08:44:28+00:00'
 requested_by: mcabreradev
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/mcabreradev/almundo-api
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/mcabreradev/almundo-api
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -38,7 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -51,6 +54,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -64,7 +68,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -76,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/almundo-api
   detection_source: Repo Metadata
 - name: Mocha
   description: Simple, flexible, fun javascript test framework for node.js &amp; the
@@ -88,7 +93,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -100,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -113,7 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -125,6 +131,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/package.json
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -138,7 +145,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16808/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -152,7 +159,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -166,7 +173,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16332/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -180,7 +187,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -194,7 +201,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -208,7 +215,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18064/image.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -222,7 +229,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -236,7 +243,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -250,7 +257,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16767/default_aa2369d4412b5a2c6812de3c666299e0ccd25ea2.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -264,7 +271,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16165/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -278,7 +285,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -305,7 +312,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -326,7 +333,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16141/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -340,7 +347,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
@@ -361,7 +368,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/mcabreradev/almundo-api/blob/master/yarn.lock
   detection_source: package.json
   last_updated_by: Miguelangel Cabrera
   last_updated_on: 2017-08-12 11:57:42.000000000 Z
